@@ -7,7 +7,7 @@ end
 
 def name
   
-  @names = name
+  @name
   
 end 
   
