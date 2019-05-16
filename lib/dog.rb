@@ -5,10 +5,10 @@ def initialize(name)
   
 end
 
-# def name
+def name
   
-#   @name
+  @name
   
-# end 
+end 
 
 end
