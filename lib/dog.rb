@@ -1,6 +1,6 @@
 class Person
 
-initialize()
+def initialize()
   
 
 end
